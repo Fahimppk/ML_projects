@@ -149,4 +149,4 @@ Further improvements can include Random Forest, hyperparameter tuning, feature s
 
 **Muhammed Fahim**
 
-Machine Learning | Data Science | Python
+Machine Learning | Data Science | Python.
